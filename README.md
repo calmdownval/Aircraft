@@ -1,3 +1,5 @@
+https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png
+
 # Aircraft
 a Craftbukkit/Spigot server plugin allowing players to fly anything they build
 
