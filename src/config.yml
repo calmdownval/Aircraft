@@ -1,0 +1,9 @@
+# The item that the player must hold in hand to control the aircraft.
+# It should not be a placeable block.
+# default: 347 (clock/watch)
+control: 347
+
+# The maximum number of blocks aircraft can consist of.
+# Do not use unnecessarily big numbers.
+# default: 1000
+max-size: 1000

@@ -1,0 +1,9 @@
+name: Aircraft
+main: com.sunkenbridge.val.Aircraft.AircraftPlugin
+version: 1.4.6
+commands:
+  aircraft:
+    description: A powerful command that controls the whole Aircraft plugin.
+    usage: /<command> ?
+  ac:
+    description: Alias of /aircraft
